@@ -36,11 +36,11 @@ The primary objective is to analyze and visualize traffic patterns based on vari
 
 ## Summary of Results
 
-* Identified key congestion hotspots in urban areas, particularly during peak hours.
-  
-* Established patterns indicating specific times of day with increased traffic volume.
-  
-* Developed predictive models that can forecast congestion based on historical data.
+ - Traffic is significantly higher during rush hours compared to non-rush hours.
+ - Non-holiday traffic volumes exceed holiday traffic volumes, except for some special occasions.
+ - Weather conditions like cloudy and rainy days lead to increased congestion, while clear days see smoother traffic flow.
+ - Traffic volume increases in moderate temperatures and decreases in extreme cold or hot conditions.
+
 
 ## Challenges Faced
 
