@@ -1,4 +1,4 @@
-# Congestion_Crushers_Traffic-Congestion-Study
+# Congestion Crushers- Traffic Congestion Study
 
 ## Group Members
 
@@ -10,7 +10,7 @@
 
 ## Objective Of The Project
 
-Analyze urban traffic data to identify factors affecting traffic congestion
+The primary objective is to analyze and visualize traffic patterns based on various factors, including rush hours, weather conditions, holidays, temperature, and cloud coverage. The project aims to provide insights into congestion trends to aid in better traffic management and planning.
 
 ## Tools And Libraries Used
 
