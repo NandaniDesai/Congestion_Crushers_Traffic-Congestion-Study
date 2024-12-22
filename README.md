@@ -1,4 +1,4 @@
-# Congestion Crushers- Traffic Congestion Study
+y# Congestion Crushers- Traffic Congestion Study
 
 ## Group Members
 
@@ -26,14 +26,13 @@ The primary objective is to analyze and visualize traffic patterns based on vari
 
 ## Execution Steps
 
-**Modeling**: First we  Develop predictive models using machine learning techniques to forecast traffic congestion based on historical data. Common algorithms include regression analysis, decision trees, and neural networks.
-
-**Validation**: Next we will Validate the models using a separate dataset to ensure accuracy. This step is crucial for assessing the reliability of your predictions.
-
-**Reporting**: Summarize the findings in a report that includes visualizations, key insights, and recommendations for traffic management.
-
-**Implementation**: Work with local authorities to implement traffic management strategies based on our  analysis  such as optimizing traffic signal timings or improving public transportation options.
-
+1. **Install Required Libraries**: Ensure Pandas, Matplotlib, and Tkinter are installed.
+2. **Load the Dataset**: Ensure the dataset (traffic.csv) is placed in the same directory as the script.
+3. **Run the Script**: Execute the Python script.
+4. **Interact with the UI**:
+   - Click on the buttons to display corresponding traffic analysis graphs.
+   - Graphs for rush hour, holidays, weather, temperature, and cloud coverage can be viewed dynamically.
+5. **Optional**: Customize or save cleaned data using embedded options.
 
 ## Summary of Results
 
