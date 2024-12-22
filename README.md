@@ -1,31 +1,31 @@
-## Congestion_Crushers_Traffic-Congestion-Study
+# Congestion_Crushers_Traffic-Congestion-Study
 
-**Group Members**
+## Group Members
 
-Nandani Desai - KU2407U144
-<br/>Hely Modi - KU2407U073
-<br/>Riya Singh - KU2407U183
-<br/>Rudra Desai - KU2407U186
-<br/>Manthan Bhambhani - KU2407U130
+- Nandani Desai - KU2407U144
+- Manthan Bhambhani - KU2407U130
+- Hely Modi - KU2407U073
+- Riya Singh - KU2407U183
+- Rudra Desai - KU2407U186
 
-**Objective Of The Project**
+## Objective Of The Project
 
-Analyze urban traffic data to identify congestion hotspots and peak times.
+Analyze urban traffic data to identify factors affecting traffic congestion
 
-**Tools And Libraries Used**
+## Tools And Libraries Used
 
 * Visual Studio Code
 * NumPy 
 * Pandas
 * Matplotlib
 
-**Data Souruce**
+## Data Souruce
 
 * GPS data
-* traffic cameras
-* sensors
+* Traffic cameras
+* Sensors
 
-**Execution Steps**
+## Execution Steps
 
 **Modeling**: First we  Develop predictive models using machine learning techniques to forecast traffic congestion based on historical data. Common algorithms include regression analysis, decision trees, and neural networks.
 
@@ -36,7 +36,7 @@ Analyze urban traffic data to identify congestion hotspots and peak times.
 **Implementation**: Work with local authorities to implement traffic management strategies based on our  analysis  such as optimizing traffic signal timings or improving public transportation options.
 
 
-**Summary of Results**
+## Summary of Results
 
 * Identified key congestion hotspots in urban areas, particularly during peak hours.
   
@@ -44,7 +44,7 @@ Analyze urban traffic data to identify congestion hotspots and peak times.
   
 * Developed predictive models that can forecast congestion based on historical data.
 
-**Challenges Faced**
+## Challenges Faced
 
 **Poor Data Quality**
 
