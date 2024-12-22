@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from tkinter import Tk, Button, Frame, Label, BOTH
-from tkinter.ttk import Style
 
 # Load the data
 data = pd.read_csv("./data/traffic.csv", na_values=[])
@@ -103,10 +102,11 @@ root.geometry(f"{width}x{height}")  # Default window size
 # Adding a background color
 root.configure(bg="#f0f0f0")
 
-# Frames
+# Button Frame
 button_frame = Frame(root, bg="#f0f0f0", height=100)
 button_frame.pack(fill=BOTH, side="top", padx=10, pady=10)
 
+# Graph Frame
 graph_frame = Frame(root, bg="#ffffff")
 graph_frame.pack(fill=BOTH, expand=True, padx=0, pady=10)
 
