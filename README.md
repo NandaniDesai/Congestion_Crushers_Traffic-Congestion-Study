@@ -19,11 +19,10 @@ The primary objective is to analyze and visualize traffic patterns based on vari
 - Tkinter: For building a graphical user interface (GUI) for user interaction.
 - Pandas: For data cleaning, transformation, and aggregation.
   
-## Data Souruce
+## Data Source
 
-* GPS data
-* Traffic cameras
-* Sensors
+- Synthetic Dataset: A dataset resembling real-world traffic data, including columns like traffic_volume, weather_main, holiday, temp, and clouds_all.
+- Assumed Source: Authentic dataset generated using GPS data for simulating public traffic records and weather conditions.
 
 ## Execution Steps
 
