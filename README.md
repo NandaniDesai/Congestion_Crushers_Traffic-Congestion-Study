@@ -14,11 +14,11 @@ The primary objective is to analyze and visualize traffic patterns based on vari
 
 ## Tools And Libraries Used
 
-* Visual Studio Code
-* NumPy 
-* Pandas
-* Matplotlib
-
+- Python: For data manipulation, analysis, and visualization.
+- Matplotlib: To create detailed and interactive graphs embedded into the UI.
+- Tkinter: For building a graphical user interface (GUI) for user interaction.
+- Pandas: For data cleaning, transformation, and aggregation.
+  
 ## Data Souruce
 
 * GPS data
