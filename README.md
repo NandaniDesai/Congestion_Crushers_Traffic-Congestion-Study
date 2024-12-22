@@ -44,13 +44,10 @@ The primary objective is to analyze and visualize traffic patterns based on vari
 
 ## Challenges Faced
 
-**Poor Data Quality**
-
-1) The data was might be messy, incomplete, or old, making it hard to get accurate results.
-2) Traffic depends on many things, like weather, events, or accidents, so it's hard to figure out the main cause of jams.
-3) People like city planners and traffic managers often have different goals, so it’s hard to work together.
-4) Not Enough Resources
-5) There might not be enough money or technology to do a deep analysis.
+ - Handling missing data effectively without compromising insights.
+ - Distinguishing between holiday and non-holiday traffic due to insufficient holiday data in the dataset.
+ - Ensuring the UI dynamically scales graphs to fit various screen sizes.
+ - Embedding responsive, interactive Matplotlib graphs into the Tkinter interface while maintaining performance.
 
 
 
